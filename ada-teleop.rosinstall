@@ -1,2 +1,2 @@
-- git: {local-name: mouse_as_joystick, uri: 'https://github.com/personalrobotics/mouse_as_joystick.git'}
-- git: {local-name: ada_teleoperation, uri: 'https://github.com/personalrobotics/ada_teleoperation.git'}
+- git: {local-name: mouse_as_joystick, uri: 'https://github.com/HARPLab/mouse_as_joystick.git'}
+- git: {local-name: ada_teleoperation, uri: 'https://github.com/HARPLab/ada_teleoperation.git'}
