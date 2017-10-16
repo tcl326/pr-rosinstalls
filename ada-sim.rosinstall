@@ -5,7 +5,7 @@
 - git: {local-name: or_ompl, uri: 'https://github.com/HARPLab/or_ompl.git'}
 - git: {local-name: ada, uri: 'https://github.com/HARPLab/ada.git'}
 - git: {local-name: or_nlopt_ik, uri: 'https://github.com/HARPLab/or_nlopt_ik.git'}
-- git: {local-name: trac_ik, uri: 'https://bitbucket.org/HARPLab/trac_ik.git'}
+- git: {local-name: trac_ik, uri: 'https://bitbucket.org/traclabs/trac_ik.git'}
 - git: {local-name: or_trac_ik, uri: 'https://github.com/HARPLab/or_trac_ik.git'}
 - git: {local-name: or_urdf, uri: 'https://github.com/HARPLab/or_urdf.git'}
 - git: {local-name: pr-ordata, uri: 'https://github.com/HARPLab/pr-ordata.git'}
