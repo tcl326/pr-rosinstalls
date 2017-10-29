@@ -1,0 +1,2 @@
+- git: {local-name: intent_bot, uri: 'git@github.com:HARPLab/intent_bot.git'}
+- git: {local-name: apriltags, uri: 'git@github.com:HARPLab/apriltags.git'}
