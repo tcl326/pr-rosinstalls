@@ -65,6 +65,9 @@
     local-name: prpy
     uri: https://github.com/HARPLab/prpy.git
 - git:
+    local-name: ros_myo
+    uri: git@github.com:uts-magic-lab/ros_myo.git
+- git:
     local-name: trajopt
     uri: https://github.com/HARPLab/trajopt.git
 - git:
