@@ -8,6 +8,6 @@
 - git: {local-name: trac_ik, uri: 'https://bitbucket.org/traclabs/trac_ik.git'}
 - git: {local-name: or_trac_ik, uri: 'https://github.com/HARPLab/or_trac_ik.git'}
 - git: {local-name: or_urdf, uri: 'https://github.com/HARPLab/or_urdf.git'}
-- git: {local-name: pr-ordata, uri: 'https://github.com/HARPLab/pr-ordata.git'}
+- git: {local-name: pr_ordata, uri: 'https://github.com/HARPLab/pr-ordata.git'}
 - git: {local-name: or_parabolicsmoother, uri: 'https://github.com/HARPLab/or_parabolicsmoother.git'}
 - git: {local-name: tsr, uri: 'https://github.com/HARPLab/tsr.git'}
